@@ -1,7 +1,7 @@
 # Prediction in Time Series Dataset
 ----------
 
-<ins>Task to be done:</ins> Performed Time Series prediction on Road Dataset.
+<ins>Task to be done:</ins> Perform Time Series Prediction on Road Dataset.
 
 <ins>Procedure Used:</ins>
 
