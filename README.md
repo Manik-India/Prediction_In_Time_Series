@@ -1,4 +1,16 @@
 # Prediction in Time Series Dataset
+----------
 
-* To predict the parameter from 9 to 13 for all sections for year 10, I use the Decision Tree Classifier from the sklearn library.
-* To showcase the true and predicted values simultaneoulsy, comparison plots are made at the end.
+<ins>Task to be done:</ins> Performed Time Series prediction on Road Dataset.
+
+<ins>Procedure Used:</ins>
+
+1) Split the dataset into Train and Test dataset, by extracting 10th year data for parameter 9-13 for every section. 
+
+2) Applied Extra Regressor Model to implement random forest and predicted the corresponding values.
+
+----------
+
+<ins>Name:</ins> Manik
+
+<ins>Roll No.:</ins> 101903077
